@@ -6,5 +6,5 @@ def teach
 rand = Random.new(KNOWLEDGE.length)
 KNOWLEDGE[rand]
 end
-  
+  teach
 end
